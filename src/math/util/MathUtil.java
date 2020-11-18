@@ -39,3 +39,9 @@ public class MathUtil {
 //tool có thể là: cmd, GUI, IDE(cmd,click)
 //vì ta pro ta chơi cmd
 //cài git scm 
+//cần file đặc biệt để nói với Git tool rằng ai lên server, ai ở lại local
+//file này đc gọi là .gitignore (thuần text)
+//nó sẽ khác nhau tùy dự án, tùy vào IDE mình xài, ngôn ngữ lập trình mik xài
+//có 1 gã dev cực kì dễ thương đã làm sẵn các file ứng với IDE, NNLT rồi
+//xin anh ấy về xài
+// http://gitignore.io
